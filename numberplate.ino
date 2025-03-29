@@ -6,14 +6,14 @@
 #include "time.h"
 
 // WiFi Credentials
-const char* WIFI_SSID = "apex";
-const char* WIFI_PASS = "freedomtech";
+const char* WIFI_SSID = "ssid";
+const char* WIFI_PASS = "password";
 
 // Gemini AI API Key
-const char* GEMINI_API_KEY = "AIzaSyCAjAb3klC4YV5-H7y09BNqriOG-QcVd8A";
+const char* GEMINI_API_KEY = "";
 
 // Firebase URL (Replace with your Firebase Realtime Database URL)
-const char* FIREBASE_URL = "https://esp32yt-ec8f4-default-rtdb.firebaseio.com/data.json";
+const char* FIREBASE_URL = "";
 
 // NTP Server for Date and Time
 const char* ntpServer = "pool.ntp.org";
